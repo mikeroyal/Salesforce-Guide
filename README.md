@@ -31,9 +31,11 @@
 
 10. [PHP Development](https://github.com/mikeroyal/Salesforce-Guide/blob/main/README.md#php-development)
 
-
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/117586096-d21e1000-b0ca-11eb-8bf9-1553840ce45f.png">
- 
+  <br />
+</p>
+
 **Salesforce Cloud for IoT. Source: [Salesforce](https://www.salesforce.com/blog/2015/09/introducing-iot-cloud-thunder.html)**
 
 <p align="center">
