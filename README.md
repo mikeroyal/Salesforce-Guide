@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117211691-329d0c80-adae-11eb-8d2f-49f8c063ed99.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146079454-ce2c5a54-e924-4f97-bfd6-1da7bfa064c9.png">
   <br />
  Salesforce Guide
 </h1>
@@ -8,6 +8,11 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146079463-6dbcec0f-dc1c-4209-b6ed-51b47077cfc8.png">
+  <br />
+</p>
+
  
 # Table of Contents
 
@@ -37,11 +42,6 @@
 </p>
 
 **Salesforce Cloud for IoT. Source: [Salesforce](https://www.salesforce.com/blog/2015/09/introducing-iot-cloud-thunder.html)**
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/117211717-36c92a00-adae-11eb-87dc-3fd47d4a72c9.png">
-  <br />
-</p>
 
 
 # Salesforce Learning Resources
